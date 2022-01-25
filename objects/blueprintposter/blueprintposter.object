@@ -1,0 +1,35 @@
+{
+  "objectName" : "blueprintposter",
+  "colonyTags" : ["science","knowledge"],
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 200,
+
+  "description" : "Blueprints for various components of an Expandable Ship",
+  "shortdescription" : "Experimental Ship Blueprints",
+  "race" : "generic",
+
+  "apexDescription" : "Blueprints for experimental ship parts.",
+  "avianDescription" : "These drawings look like they're for a ship.",
+  "floranDescription" : "Lookss like a sship.",
+  "glitchDescription" : "Observant. These diagrams depict a unique looking ship.",
+  "humanDescription" : "These parts look like they're meant an experimental ship.",
+  "hylotlDescription" : "Intricate drawings of various non-standard ship components.",
+  "novakidDescription" : "Looks like some plans for a ship.",
+
+
+  "inventoryIcon" : "blueprintpostericon.png",
+  "learnBlueprintsOnPickup" : ["blueprintposter", "durashippanel", "titaniumglass", "basicshipdoor", "basicshiphatch", "basicshiplocker" ],
+
+  "orientations" : [
+    {
+      "image" : "blueprintposter.png:<color>",
+      "imagePosition" : [-16, -16],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

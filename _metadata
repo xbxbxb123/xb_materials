@@ -1,0 +1,8 @@
+{
+  "author" : "Ben",
+  "description" : "Adds materials and objects that my other mods use. Unlock most of them by picking up the blueprints poster item.",
+  "friendlyName" : "Xb's Materials",
+  "name" : "xb_materials",
+  "tags" : "Crafting and Building|Furniture and Objects",
+  "version" : "1.0"
+}
