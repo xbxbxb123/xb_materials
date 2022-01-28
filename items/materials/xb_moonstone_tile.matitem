@@ -1,0 +1,14 @@
+{
+  "itemName" : "xb_moonstone_tile",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "xb_moonstone_tile_item.png",
+  "shortdescription" : "Moonstone Tile",
+  "description" : "Moonstone carved into smooth tiles.",
+  "glitchDescription" : "Apprehensive. It is very smooth - hopefully not a slipping hazard.",
+  "floranDescription" : "Sssmooth moon rock.",
+  "novakidDescription" : "That's real fancy.",
+
+  "materialId" : 7402
+}

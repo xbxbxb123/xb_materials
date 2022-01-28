@@ -1,0 +1,25 @@
+{
+  "materialId" : 7403,
+  "materialName" : "xb_polished_moonstone",
+  "particleColor" : [155, 155, 155, 255],
+  "itemDrop" : "xb_polished_moonstone",
+
+  "shortdescription" : "Polished Moonstone",
+  "description" : "Moonstone with a smooth and polished surface",
+  "glitchDescription" : "Observant. It has a rather luxuriant appearance.",
+  "floranDescription" : "Fancy moon sstuff.",
+  "novakidDescription" : "Y'might see this stuff in a really uptown bank or some such.",
+  "footstepSound" : "/sfx/blocks/footstep_ice.ogg",
+  "health" : 10,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "xb_polished_moonstone.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 5000
+  }
+}

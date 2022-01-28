@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "moonstone", "count" : 20 },
+    { "item" : "fabric", "count" : 5 }
+  ],
+  "output" : { "item" : "isn_moonstone_throne", "count" : 1 },
+  "groups" : [ "craftingfurniture2", "decoration", "all" ]
+}

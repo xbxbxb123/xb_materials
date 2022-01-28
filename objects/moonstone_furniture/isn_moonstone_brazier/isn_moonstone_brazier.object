@@ -1,0 +1,77 @@
+{
+  "objectName" : "isn_moonstone_brazier",
+  "colonyTags" : ["moonstone","light"],
+  "rarity" : "Common",
+  "description" : "An elevated bowl that contains fuel for a fire.",
+  "shortdescription" : "Moonstone Brazier",
+  "category" : "light",
+  "price" : 150,
+  "printable" : false,
+
+  "maximumLiquidLevel" : 0.2,
+
+  "apexDescription" : "I guess it's more refined than huddling around an old barrel.",
+  "avianDescription" : "I wonder, couldn't rain collect in the dish and snuff the fire out?",
+  "floranDescription" : "Ssstupid bowl! Fire soup is worst soup!",
+  "glitchDescription" : "Interested. The bowl could be used to contain liquid or solid fuels for the fire.",
+  "humanDescription" : "That's a pretty tasteful way to light the place.",
+  "hylotlDescription" : "I recall reading about an ancient human ceremony where such a torch would be lit. Fascinating!",
+  "novakidDescription" : "That's one heckuva toilet.",
+
+  "lightColor" : [171, 134, 67],
+
+  "flickerPeriod" : 0.2,
+  "flickerMinIntensity" : 0.7,
+  "flickerMaxIntensity" : 0.75,
+  "flickerPeriodVariance" : 0.05,
+  "flickerIntensityVariance" : 0.025,
+
+  "statusEffects" : [ ],
+
+  "inventoryIcon" : "isn_moonstone_brazier_item.png",
+  "orientations" : [
+    {
+      "image" : "isn_moonstone_brazier.png:<color>.<frame>",
+      "imagePosition" : [-8, 0],
+    
+      "direction" : "left",
+      "flipImages" : true,
+    
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "animationPosition" : [-8, 0]
+    },
+  {
+      "image" : "isn_moonstone_brazier.png:<color>.<frame>",
+      "imagePosition" : [-8, 0],
+    
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "animationPosition" : [-8, 0]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/torch.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+  
+  "animation" : "isn_moonstone_brazier.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/torch_on1.ogg", "/sfx/objects/torch_on2.ogg" ],
+      "off" : [ "/sfx/objects/torch_off1.ogg", "/sfx/objects/torch_off2.ogg", "/sfx/objects/torch_off3.ogg" ]
+    }
+  },
+  "animationParts" : {
+    "bg" : "isn_moonstone_brazier.png",
+    "fg" : "isn_moonstone_brazier_lit.png"
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 1] ]
+  
+  // "interactive" : false
+}

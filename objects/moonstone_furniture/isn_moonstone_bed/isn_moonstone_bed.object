@@ -1,0 +1,46 @@
+{
+  "objectName" : "isn_moonstone_bed",
+  "colonyTags" : ["moonstone"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "An elegant bed crafted from moonstone.",
+  "shortdescription" : "Moonstone Bed",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 200,
+
+  "apexDescription" : "Despite being made of stone it does have a somewhat gentle appearance.",
+  "avianDescription" : "Not the most modest place to sleep, but I have to admit it's comfortable.",
+  "floranDescription" : "Fancy ssschmancy bed. Meh.",
+  "glitchDescription" : "Impressed. Glitch royalty would likely consider this suitable sleeping arrangements.",
+  "humanDescription" : "A moon bed. Twice as good at night time!",
+  "hylotlDescription" : "How does one appreciate fine aesthetics and luxuries while asleep?",
+  "novakidDescription" : "Ain't nothin' wrong with a good old fashioned wooden bed...",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 13],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/moonstone_furniture/isn_moonstone_bed/isn_moonstone_bed_cover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed3"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "isn_moonstone_bed_item.png",
+  "orientations" : [
+    {
+      "dualImage" : "isn_moonstone_bed.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "itemName" : "xb_polished_moonstone",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "xb_polished_moonstone_item.png",
+  "shortdescription" : "Polished Moonstone",
+  "description" : "Moonstone with a smooth and polished surface",
+  "glitchDescription" : "Observant. It has a rather luxuriant appearance.",
+  "floranDescription" : "Fancy moon sstuff.",
+  "novakidDescription" : "Y'might see this stuff in a really uptown bank or some such.",
+
+  "materialId" : 7403
+}

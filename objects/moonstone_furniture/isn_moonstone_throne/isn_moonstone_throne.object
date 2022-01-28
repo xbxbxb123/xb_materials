@@ -1,0 +1,48 @@
+{
+  "objectName" : "isn_moonstone_throne",
+  "colonyTags" : ["moonstone"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A highly luxurious moonstone throne. Be the king or queen of the moon!",
+  "shortdescription" : "Moonstone Throne",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 400,
+
+  "apexDescription" : "That's a bit ostentatious, isn't it?",
+  "avianDescription" : "One who sits here must think very highly of themselves.",
+  "floranDescription" : "Floran not care who hasss biggest chair, floran care who does best hunt.",
+  "glitchDescription" : "Surprised. Only the highest of glitch royalty would sit on a throne like this.",
+  "humanDescription" : "All that fancy craftwork just for someone to put their butt all over it.",
+  "hylotlDescription" : "Finding only one's own pride in the moon's heavenly light seems astoundingly arrogant.",
+  "novakidDescription" : "Who'n tarnation needs a chair this expensive?",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitCoverImage" : "/objects/moonstone_furniture/isn_moonstone_throne/isn_moonstone_throne_cover.png",
+
+  "inventoryIcon" : "isn_moonstone_throne_item.png",
+  "orientations" : [
+    {
+      "image" : "isn_moonstone_throne.png",
+      "imagePosition" : [-8, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "sitPosition" : [-4, 22],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "isn_moonstone_throne.png",
+      "imagePosition" : [-8, 0],
+      "direction" : "right",
+
+      "sitPosition" : [4, 22],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

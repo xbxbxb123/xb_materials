@@ -1,1 +1,16 @@
-[{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"blueprintposter"} }]
+[
+  {"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"blueprintposter"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"isn_smooth_moonstone"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"isn_moonstone_support"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"isn_moonstone_railing"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"isn_moonstone_tile"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"isn_moonstone_platform"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"isn_moonstone_chair"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"isn_moonstone_throne"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"isn_moonstone_table"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"isn_moonstone_brazier"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"isn_moonstone_door"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"isn_moonstone_bed"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"isn_moonstone_lantern_large"}},
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"isn_moonstone_lantern_small"}}
+]

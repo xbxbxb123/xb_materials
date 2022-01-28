@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "moonstone", "count" : 20 }
+  ],
+  "output" : { "item" : "xb_moonstone_tile", "count" : 20 },
+  "duration" : 0.04,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

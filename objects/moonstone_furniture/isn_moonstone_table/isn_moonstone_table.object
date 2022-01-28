@@ -1,0 +1,32 @@
+{
+  "objectName" : "isn_moonstone_table",
+  "colonyTags" : ["commerce","moonstone"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A fancy table hewn from marbled moonstone.",
+  "shortdescription" : "Moonstone Table",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 200,
+
+  "apexDescription" : "I can tell quite a lot of craftsmanship went into making this.",
+  "avianDescription" : "This architecture would be considered pretentious and vain by most avians.",
+  "floranDescription" : "Ssstony swirly moon table.",
+  "glitchDescription" : "Impressed. Glitch rarely work with softer stone, so this stonework style is seldom seen.",
+  "humanDescription" : "It's very fancy, like something you'd see in an upper class place.",
+  "hylotlDescription" : "The marbled stone on the table face reminds me of ripples in a pond's surface.",
+  "novakidDescription" : "Pretty expensive lookin'. Probably ain't with today's technology though.",
+
+  "inventoryIcon" : "isn_moonstone_table_item.png",
+  "orientations" : [
+    {
+      "dualImage" : "isn_moonstone_table.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ]
+}

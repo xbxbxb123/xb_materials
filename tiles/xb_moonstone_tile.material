@@ -1,0 +1,24 @@
+{
+  "materialId" : 7402,
+  "materialName" : "xb_moonstone_tile",
+  "particleColor" : [150, 150, 150, 255],
+  "itemDrop" : "xb_moonstone_tile",
+  "shortdescription" : "Moonstone Tile",
+  "description" : "Tiling carved from moonstone.",
+  "glitchDescription" : "Apprehensive. It is very smooth - hopefully not a slipping hazard.",
+  "floranDescription" : "Sssmooth moon rock.",
+  "novakidDescription" : "That's real fancy.",
+  "footstepSound" : "/sfx/blocks/footstep_ice.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "xb_moonstone_tile.png",
+    "variants" : 10,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 3161
+  }
+}
