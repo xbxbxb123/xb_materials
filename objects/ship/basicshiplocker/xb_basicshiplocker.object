@@ -1,5 +1,5 @@
 {
-  "objectName" : "basicshiplocker",
+  "objectName" : "xb_basicshiplocker",
   "colonyTags" : ["storage"],
   "printable" : false,
   "rarity" : "Uncommon",

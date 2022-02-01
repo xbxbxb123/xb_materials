@@ -1,8 +1,8 @@
 {
   "materialId" : 7400,
-  "materialName" : "durashippanel",
+  "materialName" : "xb_durashippanel",
   "particleColor" : [24, 24, 96, 255],
-  "itemDrop" : "durashippanel",
+  "itemDrop" : "xb_durashippanel",
 
   "description" : "Tough durasteel plating suitable for a ship or space station.",
   "glitchDescription" : "Impressed. These metal plates look durable and expensive.",

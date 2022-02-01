@@ -4,7 +4,7 @@
     { "item" : "bluedye", "count" : 1 }
   ],
   "output" : {
-    "item" : "blueprintposter",
+    "item" : "xb_blueprintposter",
     "count" : 1
   },
   "groups"  : [ "craftingfurniture", "decoration", "all" ]

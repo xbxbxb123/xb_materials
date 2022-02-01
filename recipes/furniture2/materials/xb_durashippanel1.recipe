@@ -3,7 +3,7 @@
     { "item" : "durasteelbar", "count" : 1 }
   ],
   "output" : {
-    "item" : "durashippanel",
+    "item" : "xb_durashippanel",
     "count" : 25
   },
   "groups"  : [ "craftingfurniture2", "materials", "all" ]

@@ -1,5 +1,5 @@
 {
-  "itemName" : "titaniumglass",
+  "itemName" : "xb_titaniumglass",
   "price" : 25,
   "category" : "block",
   "rarity" : "Common",
@@ -8,5 +8,5 @@
   "description" : "Glass that has been strengthened with titanium.",
 
   "materialId" : 7401,
-  "learnBlueprintsOnPickup" : [ "titaniumglass" ]
+  "learnBlueprintsOnPickup" : [ "xb_titaniumglass" ]
 }

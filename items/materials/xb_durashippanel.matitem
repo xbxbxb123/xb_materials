@@ -1,5 +1,5 @@
 {
-  "itemName" : "durashippanel",
+  "itemName" : "xb_durashippanel",
   "price" : 25,
   "category" : "block",
   "rarity" : "Common",
@@ -8,5 +8,5 @@
   "description" : "Rugged panels suitable for a spaceship or station.",
 
   "materialId" : 7400,
-  "learnBlueprintsOnPickup" : [ "durashippanel" ]
+  "learnBlueprintsOnPickup" : [ "xb_durashippanel" ]
 }

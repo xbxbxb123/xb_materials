@@ -1,5 +1,5 @@
 {
-  "objectName" : "basicshipdoor",
+  "objectName" : "xb_basicshipdoor",
   "colonyTags" : ["industrial","door"],
   "rarity" : "Common",
 

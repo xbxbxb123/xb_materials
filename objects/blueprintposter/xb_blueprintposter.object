@@ -1,5 +1,5 @@
 {
-  "objectName" : "blueprintposter",
+  "objectName" : "xb_blueprintposter",
   "colonyTags" : ["science","knowledge"],
   "rarity" : "Rare",
   "category" : "decorative",
@@ -19,7 +19,7 @@
 
 
   "inventoryIcon" : "blueprintpostericon.png",
-  "learnBlueprintsOnPickup" : ["blueprintposter", "durashippanel", "titaniumglass", "basicshipdoor", "basicshiphatch", "basicshiplocker" ],
+  "learnBlueprintsOnPickup" : ["xb_blueprintposter", "xb_durashippanel", "xb_titaniumglass", "xb_basicshipdoor", "xb_basicshiphatch", "xb_basicshiplocker" ],
 
   "orientations" : [
     {

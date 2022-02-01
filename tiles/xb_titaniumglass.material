@@ -1,8 +1,8 @@
 {
   "materialId" : 7401,
-  "materialName" : "titaniumglass",
+  "materialName" : "xb_titaniumglass",
   "particleColor" : [96, 96, 128, 255],
-  "itemDrop" : "titaniumglass",
+  "itemDrop" : "xb_titaniumglass",
 
   "description" : "Glass paneling enhanced with titanium for strength",
   "floranDescription" : "Pretty glasss.",
