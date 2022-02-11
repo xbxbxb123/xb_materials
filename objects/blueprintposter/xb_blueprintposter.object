@@ -19,7 +19,7 @@
 
 
   "inventoryIcon" : "blueprintpostericon.png",
-  "learnBlueprintsOnPickup" : ["xb_blueprintposter", "xb_durashippanel", "xb_titaniumglass", "xb_basicshipdoor", "xb_basicshiphatch", "xb_basicshiplocker" ],
+  "learnBlueprintsOnPickup" : ["xb_blueprintposter", "xb_durashippanel", "xb_titaniumglass", "xb_basicshipdoor", "xb_basicshiphatch", "xb_basicshiplocker", "xb_basiccaptainschair", "xb_advancedcaptainschair" ],
 
   "orientations" : [
     {

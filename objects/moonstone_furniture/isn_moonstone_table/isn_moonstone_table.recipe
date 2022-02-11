@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "moonstone", "count" : 5 }
-  ],
-  "output" : { "item" : "isn_moonstone_table", "count" : 1 },
-  "groups" : [ "craftingfurniture2", "decoration", "all" ]
-}

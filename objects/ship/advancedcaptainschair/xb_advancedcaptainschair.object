@@ -1,0 +1,55 @@
+{
+  "objectName" : "xb_advancedcaptainschair",
+  "colonyTags" : ["industrial", "space", "station", "tier4"],
+  "itemTags" : ["captainschair"],
+  "printable" : false,
+  "rarity" : "Rare",
+  "objectType" : "loungeable",
+
+  "description" : "An exceptionally impressive Captain's chair.",
+  "shortdescription" : "Advanced Captain's Chair",
+  "race" : "generic",
+  "category" : "furniture",
+
+  "apexDescription" : "An exceptionally impressive Captain's chair.",
+  "avianDescription" : "An imposing Captain's chair. It looks a bit like a throne.",
+  "floranDescription" : "Best chair in the universsse.",
+  "glitchDescription" : "Smug. This Captain's chair feels like a throne fit for a king.",
+  "humanDescription" : "This Captain's chair doesn't actually work differently, but it sure looks cool!",
+  "hylotlDescription" : "The craftsmanship is somewhat lacking, but it is unparalleled design and comfort.",
+  "novakidDescription" : "The Captain's chair. The guy who sits here decides where the ship goes! That's me!",
+
+  "inventoryIcon" : "advancedcaptainschairicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "advancedcaptainschair.png:<color>.<frame>", "fullbright" : true }, { "image" : "advancedcaptainschairlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "flipImages" : true,
+      "direction" : "left",
+      "sitPosition" : [3, 20]
+    },
+    {
+      "imageLayers" : [ { "image" : "advancedcaptainschair.png:<color>.<frame>", "fullbright" : true }, { "image" : "advancedcaptainschairlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "direction" : "right",
+      "sitPosition" : [-5, 20]
+    }
+  ],
+
+  "interactAction" : "ScriptPane",
+  "interactData" : "/interface/cockpit/cockpit.config",
+
+  "sitFlipDirection" : false,
+  "sitAngle" : 10,
+  "sitCoverImage" : "/objects/ship/advancedcaptainschair/advancedcaptainschaircover.png"
+}

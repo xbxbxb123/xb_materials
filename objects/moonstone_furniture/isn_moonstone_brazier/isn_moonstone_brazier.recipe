@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "moonstone", "count" : 5 },
-    { "item" : "torch", "count" : 2 }
-  ],
-  "output" : { "item" : "isn_moonstone_brazier", "count" : 1 },
-  "groups" : [ "craftingfurniture2", "lights", "all" ]
-}

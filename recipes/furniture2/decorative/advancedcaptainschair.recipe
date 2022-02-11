@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 3 },
+    { "item" : "siliconboard", "count" : 1 },
+    { "item" : "xb_basiccaptainschair", "count" : 1 }
+  ],
+  "output" : { "item" : "xb_advancedcaptainschair", "count" : 1 },
+  "groups"  : [ "craftingfurniture2", "decoration", "all" ]
+}
